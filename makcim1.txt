@@ -1,1 +1,3 @@
 makcim1
+
+modificado para cumplir la parte 6 del ejercicio
